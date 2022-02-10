@@ -1,7 +1,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rnehring89@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymond-nehring-553ba2206/)
 
-👨🏻‍💻 Check out my portfolio here: [https://rayn89.github.io/raymondnehring/](https://rayn89.github.io/raymondnehring/)
+👨🏻‍💻 Check out my portfolio here: [Raymond Nehring](https://rayn89.github.io/raymondnehring/)
 
 ## About Me
 When I was 12 years old, I was introduced to my first MMORPG, EverQuest, which started my long-term relationship with technology and computer games. When I wrote my first line of code, I was immediately hooked into software engineering. Transitioning from a career in law enforcement was the best decision I've made.
